@@ -1,0 +1,95 @@
+play b A2
+showboard
+play w D5
+showboard
+play b E3
+showboard
+play w A1
+showboard
+play b C4
+showboard
+play w B1
+showboard
+play b A3
+showboard
+play w A5
+showboard
+play b D2
+showboard
+play w B4
+showboard
+play b B5
+showboard
+play w C2
+showboard
+play b B2
+showboard
+play w E2
+showboard
+play b A4
+showboard
+play w C3
+showboard
+play b D3
+showboard
+play w A5
+showboard
+play b E4
+showboard
+play w B5
+showboard
+play b C1
+showboard
+boardsize 5
+play w A1
+showboard
+play b A2
+showboard
+play w B1
+showboard
+play b A3
+showboard
+play w B2
+showboard
+play b D4
+showboard
+play w D4
+showboard
+play b A4
+showboard
+play w E3
+showboard
+play b D5
+showboard
+play w D2
+showboard
+play b A5
+showboard
+play w A4
+showboard
+play b B4
+showboard
+play w A2
+showboard
+play b B5
+showboard
+play w A3
+showboard
+play b D1
+showboard
+play w E4
+showboard
+play b E1
+showboard
+play w E1
+showboard
+play b B3
+showboard
+play w C1
+showboard
+play b A1
+showboard
+play w C5
+showboard
+play b B1
+showboard

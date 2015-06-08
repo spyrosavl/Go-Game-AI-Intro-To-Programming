@@ -1,0 +1,18 @@
+int is_ko_point(game_info *, int , int );
+int is_suicide(game_info * , int, int ,int );
+int islegal(game_info *, int , int );
+int check_allied_liberties(game_info *, int , int , stone *);
+int check_liberties(game_info *, stone *);
+int group_liberties(game_info *, group * );
+int capture_group(game_info *, group * );
+int number_of_enemy_groups_to_be_captured(game_info *, stone *);
+int check_opponent_liberties_after_add(game_info *, stone *);
+int check_opponent_liberties_after_remove(game_info *, stone * , int );
+int add_to_group(game_info *, group *, stone * );
+int create_group(game_info *, stone * );
+int check_for_group(game_info *, stone * );
+int add_stone(game_info *, int, int, int);
+int add_log(game_info *, int, int, int);
+int play(game_info *, int, int, int);
+int genmove(game_info *, int, int *, int *);
+int undo(game_info *, int);
