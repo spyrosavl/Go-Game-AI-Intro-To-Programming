@@ -1,2 +1,0 @@
-all:
-	gcc -o ipgo main.c gtp.c board.c settings.c play.c score.c strategy.c -g3
